@@ -1,0 +1,22 @@
+.link1 {color: seagreen; font-size: 22px;font-weight: bold; display: inline-block	;}
+.active {color:  purple; font-size: 22px; font-weight: bold;}
+.article{font-size: 18px; margin: 30px 4px}
+.bold {font-weight: bold;}
+.date{border: 3px dashed gray; display: inline-block; margin: 30px 30px;}
+.homeheader3{font-size: 18px;font-weight: bold;}
+.photo1 { width: 999px; height: 667px; margin:30px auto;}
+.logo{vertical-align: middle;}
+.navigation {display: inline-block; vertical-align: middle;}
+.navli {display: inline-block; margin-left: 30px;}
+.contact {font-weight: bold; font-size: 24px; color: blue; margin-top: 40px; margin-bottom: 20px;}
+.contactlist {font-size: 22px; font-weight: bold; color: orange;}
+.contactli {font-size: 22px; font-weight: bold; color: #B2560D; }
+.contactinfo {text-align: left; margin-left: 40px; margin-right: 40px; display: inline-block;vertical-align: top;}
+.map {display: inline-block; vertical-align: top; margin-bottom: 40px;}
+.contacta {font-size: 22px; font-weight: bold; color: orange}
+.addressa {font-weight: bold; font-size: 22px; color: lightblue;}
+/*footer styles*/
+.divider { width: 2px; height: 50px; background-color: #363E97; display: inline-block; vertical-align: middle; margin: 0 20px;}
+.footericon {vertical-align: middle;}
+.fthd {background-color: lightblue;}
+.contacts {background-color: lightgray;}
