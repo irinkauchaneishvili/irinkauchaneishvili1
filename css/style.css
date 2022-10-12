@@ -13,7 +13,7 @@
 .contactinfo {text-align: left; margin-left: 40px; margin-right: 40px; display: inline-block;vertical-align: top;}
 .map {display: inline-block; vertical-align: top; margin-bottom: 40px;}
 .contacta {font-size: 22px; font-weight: bold; color: orange}
-.addressa {font-weight: bold; font-size: 22px; color: lightblue;}
+.addressa {font-weight: bold; font-size: 22px; color: blue;}
 /*footer styles*/
 .divider { width: 2px; height: 50px; background-color: #363E97; display: inline-block; vertical-align: middle; margin: 0 20px;}
 .footericon {vertical-align: middle;}
