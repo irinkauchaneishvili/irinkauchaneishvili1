@@ -20,4 +20,6 @@
 .fthd {background-color: lightblue;}
 .contacts {background-color: lightgray;}
 .absolute {font-family: 'Viaoda Libre', cursive;}
-.relative {font-family: 'Roboto';}
+.relative {font-family: 'Roboto';} 
+/*header*/
+.header {position: fixed; display: inline-block; background-color: lightblue;}
